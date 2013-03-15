@@ -1,5 +1,6 @@
 {
     "name": "linkorb/jsmin-php",
+    "version": "master",
     "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
     "homepage": "http://www.github.com/linkorb/jsmin-php",
     "keywords": ["minify", "jsmin", "javascript"],
